@@ -1,0 +1,25 @@
+# ignore macOS meta data
+**/.DS_Store
+
+# Python
+.venv
+__pycache__
+
+# Dotenv
+.env
+
+# Instructions
+instructions.md
+
+# Data
+code/0_data/*
+
+# Personal Images
+template/images/*
+images/*
+
+# Models
+code/4_modeling/4_5_hyperparameter_tuning/models/*
+
+# Wandb Tracking
+code/4_modeling/4_5_hyperparameter_tuning/wandb/*
