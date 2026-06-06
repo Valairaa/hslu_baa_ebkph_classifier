@@ -1,0 +1,38 @@
+[
+  {
+    "sweep_id": "s4wv3fsz",
+    "sweep_name": "PlainNeuralNetwork_all_categories"
+  },
+  {
+    "sweep_id": "fcol9nkq",
+    "sweep_name": "XGBoost_top_9_features"
+  },
+  {
+    "sweep_id": "fz1dt1vk",
+    "sweep_name": "RandomForest_top_9_features"
+  },
+  {
+    "sweep_id": "of6bkya6",
+    "sweep_name": "XGBoost_top_35_features"
+  },
+  {
+    "sweep_id": "qhni79i9",
+    "sweep_name": "RandomForest_top_35_features"
+  },
+  {
+    "sweep_id": "8g4miv1l",
+    "sweep_name": "RandomForest_general_material_ray_categories"
+  },
+  {
+    "sweep_id": "n3yw24wq",
+    "sweep_name": "XGBoost_general_material_ray_categories"
+  },
+  {
+    "sweep_id": "nh6ngran",
+    "sweep_name": "XGBoost_all_categories"
+  },
+  {
+    "sweep_id": "o510n6kh",
+    "sweep_name": "RandomForest_all_categories"
+  }
+]

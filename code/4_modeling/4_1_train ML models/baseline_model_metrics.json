@@ -1,0 +1,65 @@
+[
+  {
+    "model": "Naive Bayes",
+    "train_mcc": 0.2063,
+    "train_f1_macro": 0.2046,
+    "val_mcc": 0.1242,
+    "val_f1_macro": 0.1999,
+    "val_precision": 0.3086,
+    "val_accuracy": 0.2966
+  },
+  {
+    "model": "Logistic Regression",
+    "train_mcc": 0.8215,
+    "train_f1_macro": 0.856,
+    "val_mcc": 0.6064,
+    "val_f1_macro": 0.6462,
+    "val_precision": 0.7768,
+    "val_accuracy": 0.6992
+  },
+  {
+    "model": "KNN",
+    "train_mcc": 0.9522,
+    "train_f1_macro": 0.9538,
+    "val_mcc": 0.6078,
+    "val_f1_macro": 0.6512,
+    "val_precision": 0.772,
+    "val_accuracy": 0.706
+  },
+  {
+    "model": "SVM",
+    "train_mcc": 0.9198,
+    "train_f1_macro": 0.9236,
+    "val_mcc": 0.6883,
+    "val_f1_macro": 0.715,
+    "val_precision": 0.8232,
+    "val_accuracy": 0.7689
+  },
+  {
+    "model": "Decision Tree",
+    "train_mcc": 0.9995,
+    "train_f1_macro": 0.9996,
+    "val_mcc": 0.603,
+    "val_f1_macro": 0.6307,
+    "val_precision": 0.7464,
+    "val_accuracy": 0.7031
+  },
+  {
+    "model": "Random Forest",
+    "train_mcc": 0.9993,
+    "train_f1_macro": 0.9994,
+    "val_mcc": 0.6775,
+    "val_f1_macro": 0.7062,
+    "val_precision": 0.8137,
+    "val_accuracy": 0.7507
+  },
+  {
+    "model": "Extra Trees",
+    "train_mcc": 0.9995,
+    "train_f1_macro": 0.9996,
+    "val_mcc": 0.6998,
+    "val_f1_macro": 0.7045,
+    "val_precision": 0.8259,
+    "val_accuracy": 0.771
+  }
+]

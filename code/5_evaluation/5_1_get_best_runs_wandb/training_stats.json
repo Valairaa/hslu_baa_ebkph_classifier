@@ -1,0 +1,36 @@
+{
+  "random_forest": {
+    "no_oversampling": {
+      "count": 439,
+      "mean_seconds": 14.89,
+      "median_seconds": 14.43
+    },
+    "oversampling": {
+      "count": 1732,
+      "mean_seconds": 16.34,
+      "median_seconds": 13.75
+    },
+    "total": {
+      "count": 2171,
+      "mean_seconds": 16.04,
+      "median_seconds": 14.06
+    }
+  },
+  "xgboost": {
+    "oversampling": {
+      "count": 2811,
+      "mean_seconds": 39.38,
+      "median_seconds": 38.44
+    },
+    "no_oversampling": {
+      "count": 977,
+      "mean_seconds": 32.48,
+      "median_seconds": 31.91
+    },
+    "total": {
+      "count": 3788,
+      "mean_seconds": 37.6,
+      "median_seconds": 36.44
+    }
+  }
+}

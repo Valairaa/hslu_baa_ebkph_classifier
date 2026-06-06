@@ -1,0 +1,53 @@
+[tool.poetry]
+name = "baa-Lukas-Stoeckli"
+version = "0.1.0"
+description = "BAA - eBKPh classification"
+authors = ["Lukas Stoeckli <lukas.stoeckli@stud.hslu.ch>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.13,<3.15"
+seaborn = "^0.13.2"
+plotly = "^6.5.2"
+ifcopenshell = "^0.8.4.post1"
+numpy = "^2.4.2"
+pandas = "^3.0.0"
+scikit-learn = "^1.8.0"
+matplotlib = "^3.10.8"
+wandb = "^0.24.2"
+pyarrow = "^23.0.1"
+fastparquet = "^2026.3.0"
+openpyxl = "^3.1.5"
+trimesh = "^4.11.5"
+iterative-stratification = "^0.1.9"
+datasets = "^4.8.4"
+kaleido = "^1.2.0"
+xgboost = "^3.2.0"
+lightgbm = "^4.6.0"
+hyperopt = "^0.2.7"
+python-dotenv = "^1.2.2"
+weave = "^0.52.37"
+imblearn = "^0.0"
+torch = {version = ">=2.5.0", source = "pytorch-cu121"}
+
+[tool.poetry.group.dev.dependencies]
+jupyterlab = "^4.1.2"
+jupyter = "^1.0.0"
+notebook = "^7.1.0"
+nbconvert = "^7.16.4"
+ipykernel = "^7.1.0"
+ipywidgets = "^8.1.8"
+
+[[tool.poetry.source]]
+name = "pytorch-cu121"
+url = "https://download.pytorch.org/whl/cu121"
+priority = "explicit"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.isort]
+profile = "black"
+line_length = 120

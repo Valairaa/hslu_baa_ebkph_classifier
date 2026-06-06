@@ -1,0 +1,94 @@
+[
+  {
+    "project_code": "ADEM",
+    "guid": "1vFwq7a5r5sOdw0mjQoZGm",
+    "rf_pred": "IfcDoor",
+    "top_5_votes": [
+      [
+        "IfcDoor",
+        121
+      ],
+      [
+        "IfcWindow",
+        59
+      ],
+      [
+        "IfcWall",
+        15
+      ],
+      [
+        "IfcRailing",
+        3
+      ]
+    ]
+  },
+  {
+    "project_code": "ADEM",
+    "guid": "1Eai3ZjvT5bxcUpwYWgKYh",
+    "rf_pred": "IfcDoor",
+    "top_5_votes": [
+      [
+        "IfcDoor",
+        120
+      ],
+      [
+        "IfcWindow",
+        59
+      ],
+      [
+        "IfcWall",
+        16
+      ],
+      [
+        "IfcRailing",
+        3
+      ]
+    ]
+  },
+  {
+    "project_code": "ADEM",
+    "guid": "09EgNOhH0zriATwcngGc_M",
+    "rf_pred": "IfcDoor",
+    "top_5_votes": [
+      [
+        "IfcDoor",
+        125
+      ],
+      [
+        "IfcWindow",
+        57
+      ],
+      [
+        "IfcWall",
+        13
+      ],
+      [
+        "IfcSanitaryTerminal",
+        2
+      ]
+    ]
+  },
+  {
+    "project_code": "ADEM",
+    "guid": "3h0$8WOHjij7kJGCUlaRJQ",
+    "rf_pred": "IfcDoor",
+    "top_5_votes": [
+      [
+        "IfcDoor",
+        125
+      ],
+      [
+        "IfcWindow",
+        57
+      ],
+      [
+        "IfcWall",
+        13
+      ],
+      [
+        "IfcSanitaryTerminal",
+        2
+      ]
+    ]
+  }
+]
